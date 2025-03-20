@@ -13,7 +13,7 @@ public class exemplo01{
         System.out.println("valor nomes" + vetor[0]);
         
         nomes[0]= "jose"; // diferenciar formas de declarar
-        nomes[1]= "maria"; // valor String é nuloe numérico é zero
+        nomes[1]= "maria"; // valor String é nulo e numérico é zero
         nomes[2]= "joaquim";
         nomes[3]= "manoel";
                                         
